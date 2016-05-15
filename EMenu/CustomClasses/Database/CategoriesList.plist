@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_salads</string>
+		<key>Name</key>
+		<string>Salads</string>
+		<key>categoryId</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_mezze</string>
+		<key>Name</key>
+		<string>Cold Mezze</string>
+		<key>categoryId</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_hotmezze</string>
+		<key>Name</key>
+		<string>Hot Mezze</string>
+		<key>categoryId</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_fatteh</string>
+		<key>Name</key>
+		<string>Fatteh</string>
+		<key>categoryId</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_nayyeh</string>
+		<key>Name</key>
+		<string>Nayyeh</string>
+		<key>categoryId</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_fromoven</string>
+		<key>Name</key>
+		<string>From the Oven</string>
+		<key>categoryId</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_mashawi</string>
+		<key>Name</key>
+		<string>Mashawi</string>
+		<key>categoryId</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_maincourse</string>
+		<key>Name</key>
+		<string>Main Course</string>
+		<key>categoryId</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_desserts</string>
+		<key>Name</key>
+		<string>Desserts</string>
+		<key>categoryId</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>btn_beverages</string>
+		<key>Name</key>
+		<string>Beverages</string>
+		<key>categoryId</key>
+		<string>10</string>
+	</dict>
+</array>
+</plist>
